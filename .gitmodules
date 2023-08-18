@@ -1,0 +1,6 @@
+[submodule "sonny_firmware"]
+	path = sonny_firmware
+	url = https://github.com/ubiquorobotica/sonny_firmware.git
+[submodule "sonny_design_files"]
+	path = sonny_design_files
+	url = https://github.com/ubiquorobotica/sonny_design_files.git
